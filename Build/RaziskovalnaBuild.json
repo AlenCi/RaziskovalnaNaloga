@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Seminarska Build",
+"productVersion": "0.1",
+"dataUrl": "RaziskovalnaBuild.data.unityweb",
+"wasmCodeUrl": "RaziskovalnaBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "RaziskovalnaBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
