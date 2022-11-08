@@ -1,0 +1,1 @@
+Raziskovalna naloga o senčilnikih.
